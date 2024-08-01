@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180685581885",
+    "project_id": "homespot-44d66",
+    "storage_bucket": "homespot-44d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180685581885:android:5bed6be39ae7525f1f0454",
+        "android_client_info": {
+          "package_name": "com.example.workers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEK7mO7nODd8tym5HnDnWqlwvW0UTFhOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
